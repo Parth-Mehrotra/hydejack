@@ -18,8 +18,8 @@ example:
   description: >
     Add description of topic here
     
-example-2:
-  name: Example 2
+algo:
+  name: algo
   image: 
   color: '#949667'
   description: >
