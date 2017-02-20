@@ -17,5 +17,12 @@ example:
   color: '#949667'
   description: >
     Add description of topic here
+    
+example-2:
+  name: Example 2
+  image: 
+  color: '#949667'
+  description: >
+    Add description of topic here
 
 
