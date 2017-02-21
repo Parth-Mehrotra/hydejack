@@ -72,7 +72,7 @@ Tags are possible, but they are not meant to be used #instagram #style: #food #g
    ~~~
 ### How to Add a New Post
 
-1. Got to _posts (https://github.com/Lattice3f/blog/tree/gh-pages/_posts) and create a new file.
+1. Got to [`_posts`](https://github.com/Lattice3f/blog/tree/gh-pages/_posts) and create a new file.
 
 2. The file name should follow this format: (YYYY-MM-DD-postname.md)
     this will ensure the post are presented in chronological order.
@@ -97,7 +97,6 @@ tags: [algorithms]
 4. Refer to this cheatsheet(https://guides.github.com/features/mastering-markdown/) to insert images, links, etc.
 
 ### How to Change the About Information
-1. You can configure part of your about page here, including image: via [`_config.yml`]
-(https://github.com/Lattice3f/blog/blob/gh-pages/_config.yml)
+1. You can configure part of your about page here, including image: via [`_config.yml`](https://github.com/Lattice3f/blog/blob/gh-pages/_config.yml)
 
-2. While you can include all the information you want from the link above, you can include additional information via: [`_about.md`] (https://github.com/Lattice3f/blog/blob/gh-pages/about.md) 
+2. While you can include all the information you want from the link above, you can include additional information via: [`_about.md`](https://github.com/Lattice3f/blog/blob/gh-pages/about.md) 
