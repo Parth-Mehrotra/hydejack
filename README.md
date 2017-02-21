@@ -70,5 +70,27 @@ Tags are possible, but they are not meant to be used #instagram #style: #food #g
    ~~~yml
    sidebar_tags: [mytag, othertag]
    ~~~
+### How to Add a New Post
 
+1. Got to _posts (https://github.com/Lattice3f/blog/tree/gh-pages/_posts) and create a new file.
 
+2. The file name should follow this format: (YYYY-MM-DD-postname.md)
+    this will ensure the post are presented in chronological order.
+    
+3. Always have this at the top of the post:
+```
+---
+layout: post
+title: 
+tags: []
+---
+```
+Here's an example:
+
+```
+---
+layout: post
+title: Recursion
+tags: [algorithms]
+---
+```
