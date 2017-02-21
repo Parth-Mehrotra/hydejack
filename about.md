@@ -9,4 +9,4 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-[write something about self]
+[I graduated Rutgers University in 2016. I'm currently a software engineer at Bridgewater]
