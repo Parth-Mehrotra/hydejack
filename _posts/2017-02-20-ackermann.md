@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ackermann function
+title: Ackermann Function
 tags: [algorithms]
 ---
 
