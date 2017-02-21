@@ -45,7 +45,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Travis.
+    **Hi, I'm Travis.**
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
