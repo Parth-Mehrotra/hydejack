@@ -9,6 +9,4 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-I graduated Rutgers University in 2016.
-
-I'm currently a software engineer at Bridgewater
+Just a small town boy, born and raised in north Wayne. I take the midnight train. Goin' anywhere.
