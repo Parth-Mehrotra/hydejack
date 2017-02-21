@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: algo
-permalink: /tag/algo/
+tag: algorithms
+permalink: /tag/algorithms/
 ---
