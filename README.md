@@ -11,6 +11,7 @@ Features include:
 * Layout for posts grouped by year
 * Wide array of social media icons on sidebar.
 * Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
+* Google analytics [here](https://github.com/Lattice3f/blog/blob/gh-pages/_config.yml#L67). 
 
 
 ## Manual
