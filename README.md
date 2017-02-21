@@ -70,7 +70,9 @@ Tags are possible, but they are not meant to be used #instagram #style: #food #g
    ~~~yml
    sidebar_tags: [mytag, othertag]
    ~~~
+   
 ### How to Add a New Post
+This is how to create new blog posts.
 
 1.  Got to [`_posts`](https://github.com/Lattice3f/blog/tree/gh-pages/_posts) and create a new file.
 
