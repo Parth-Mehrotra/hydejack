@@ -11,15 +11,15 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-example:
-  name: Example
+algorithms:
+  name: Algorithms
   image: 
   color: '#949667'
   description: >
     Add description of topic here
     
-algo:
-  name: algo
+key-terms:
+  name: Key Terms
   image: 
   color: '#949667'
   description: >
