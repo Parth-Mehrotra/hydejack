@@ -94,7 +94,7 @@ title: Recursion
 tags: [algorithms]
 ---
 ```
-4. Refer to this cheatsheet(https://guides.github.com/features/mastering-markdown/) to insert images, links, etc.
+4. Refer to this [cheatsheet](https://guides.github.com/features/mastering-markdown/) to insert images, links, etc.
 
 ### How to Change the About Information
 1. You can configure part of your about page here, including image: via [`_config.yml`](https://github.com/Lattice3f/blog/blob/gh-pages/_config.yml)
