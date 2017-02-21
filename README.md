@@ -76,29 +76,35 @@ This is how to create new blog posts.
 
 1.  Got to [`_posts`](https://github.com/Lattice3f/blog/tree/gh-pages/_posts) and create a new file.
 
+
 2.  The file name should follow this format: (YYYY-MM-DD-postname.md)
     this will ensure the post are presented in chronological order.
     
+    
 3.  Always have this at the top of the post to ensure the post is tagged correctly:
-```
----
-layout: post
-title: 
-tags: []
----
-```
-Here's an example:
 
-```
----
-layout: post
-title: Recursion
-tags: [algorithms]
----
-```
+    ```
+    ---
+    layout: post
+    title: 
+    tags: []
+    ---
+    
+    Here's an example:
+
+    
+    ---
+    layout: post
+    title: Recursion
+    tags: [algorithms]
+    ---
+    ```
+    
 4. Refer to [this](https://guides.github.com/features/mastering-markdown/) cheatsheet to insert images, links, etc.
 
 ### How to Change the About Information
+
 1. You can configure part of your about page here, including image: via [`_config.yml`](https://github.com/Lattice3f/blog/blob/gh-pages/_config.yml)
+
 
 2. While you can include all the information you want from the link above, you can include additional information via: [`_about.md`](https://github.com/Lattice3f/blog/blob/gh-pages/about.md) 
