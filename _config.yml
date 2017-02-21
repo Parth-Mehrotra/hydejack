@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  This is where the description of my blog goes.
+  This is where I explain things about my video game.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [key-terms, algorithms]
