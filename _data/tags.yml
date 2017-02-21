@@ -20,7 +20,7 @@ algorithms:
     
 key-terms:
   name: Key Terms
-  image: ! [terms] (http://blog.apastyle.org/.a/6a01157041f4e3970b01b7c77997f1970b-pi)
+  image: ![terms] (http://blog.apastyle.org/.a/6a01157041f4e3970b01b7c77997f1970b-pi)
   color: '#949667'
   description: >
     Things to know
