@@ -9,6 +9,6 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-**I graduated Rutgers University in 2016.**
+I graduated Rutgers University in 2016.
 
-**I'm currently a software engineer at Bridgewater**
+I'm currently a software engineer at Bridgewater
