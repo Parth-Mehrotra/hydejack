@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: example
-permalink: /tag/example/
+tag: key-terms
+permalink: /tag/key-terms/
 ---
